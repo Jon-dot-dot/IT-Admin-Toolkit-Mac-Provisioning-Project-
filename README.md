@@ -10,7 +10,7 @@ Features
   - Visual Studio Code
 - Updates Homebrew packages
 - Enables the MacOS firewall
-- Fully automated setup -> perfect for IT onboarding simulation
+- Fully automated setup
 
 Requirements
 - MacOS device
@@ -21,5 +21,5 @@ Usage
 1. Download mac_setup.sh
 2. Make it executable
    chmod +x mac_setup.sh
-   Run the script
+3. Run the script
      ./mac_setup.sh
